@@ -25,5 +25,4 @@ public class FirstTest {
             System.out.println("Logo is not displayed.");
         }
 	}
-
 }
