@@ -5,7 +5,7 @@
 	<parameter name="searchKey" value="China"/>
 	<test name="testGuru">
 		<classes> 
-			<class name="Test.testParameterWithXML">
+			<class name="Test.ParameterByDataprovider">
 				
 			</class>
 		</classes>   

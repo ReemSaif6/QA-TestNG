@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Test.FirstTestCase">
+      <class name="Test.testParameterWithXML">
         <methods>
-          <include name="verifyHomepageTitle"/>
+          <include name="testParameterWith_XML"/>
         </methods>
-      </class> <!-- Test.FirstTestCase -->
+      </class> <!-- Test.testParameterWithXML -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
